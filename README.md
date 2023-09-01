@@ -13,4 +13,4 @@ NotesWall features:
  The code for the NotesWall is written with the help of Html,Css and Js.The Html coe is int the index.html file the Css code is in the style.css 
  which makes the NotesWall more stylish and the main code of js is simple and easy to understand which is present in the script.js file.
 
- hosted link:
+ hosted link:https://suk-18.github.io/NotesWall.gthub.io/
